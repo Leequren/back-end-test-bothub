@@ -13,3 +13,7 @@ logs
 yarn-error.log
 
 pg_data
+
+.yarn
+
+config/config.yml
